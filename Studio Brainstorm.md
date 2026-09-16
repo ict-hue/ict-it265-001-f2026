@@ -52,14 +52,14 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> Attention to detail, understanding appeal to players while still prioritizing a good challenge; accessibility and difficulty should be separate concerns.
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** Godot, possibly unreal engine
+- **Game Engine(s):** Godot, possibly unreal engine in the future
 - **Art Tools:** Aseprite, printer
 - **Audio Tools:** FL Studio, Bfxr apparently
 - **Version Control:** GitHub for tracking development (as stated by you)
@@ -81,4 +81,4 @@
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]
+> Most of my ideas are years in the making, but this current idea is still exciting!
