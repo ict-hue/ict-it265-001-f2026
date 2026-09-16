@@ -6,7 +6,6 @@
 ### Date: 9/15/2026
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
 - [x] Research new energy systems for turn based card games
 - [x] Figure out scale of length of games
 - [ ] Settle on an idea
