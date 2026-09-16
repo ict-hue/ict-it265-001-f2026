@@ -15,10 +15,6 @@
 - **What I accomplished**:
   - Played Slay the Spire, Magic the Gathering, Inscryption fanmade card game
   - Most interested in the "energy" form of resource in Inscryption; More energy generated each following turn but some cards require you to sacrifice energy cells, pulling back progress for a risky advantage
-- **Challenges faced**:
-  >  N/A
-- **Solutions**:
-  >  N/A
 
 #### Learnings
 - Resource management is very fun; getting a ton of mana in any of these games feels akin to that of an archetype of deck despite mainly playing into other mechanics
