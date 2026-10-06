@@ -11,5 +11,3 @@
 **One feature to defer:** Visual design
 
 **One risk to test next:** General Balance; i'm scared of making hyper offense too strong
-
-Carry this decision into the [one-page treatment](./05-one-page-treatment.html) and [first journal entry](./06-journal-first-entry.html). Link this document's rendered page from your workshop index. It supports those documents rather than adding another graded submission.
