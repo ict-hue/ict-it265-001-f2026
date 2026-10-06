@@ -11,11 +11,11 @@ title: "Module 2 Concept Workshop"
 
 ## Documents
 
-1. [Idea bank](./Idea-Bank-\-Pitch-Cards.md)
-2. [Pitch cards](./Concept-Pitch-Cards.md)
+1. [Idea bank](./Idea%20Bank%20%5C%20Pitch%20Cards.md)
+2. [Pitch cards](./Concept%20Pitch%20Cards.md)
 3. ...Forgot to store peer feedback...
-4. [Selection and scope](./Select-and-Scope-a-Concept.md)
-5. [One-page treatment](./One-Page-Treatment.md)
-6. [First journal entry](./Design-and-Development-Journal-First-Entry.md)
+4. [Selection and scope](./Select%20and%20Scope%20a%20Concept.md)
+5. [One-page treatment](./One-Page%20Treatment.md)
+6. [First journal entry](./Design%20and%20Development%20Journal%20First%20Entry.md)
 
 <!-- Keep this metadata block and update links to match your published document names. This index introduces the documents; the actual writing stays in the linked files. -->
